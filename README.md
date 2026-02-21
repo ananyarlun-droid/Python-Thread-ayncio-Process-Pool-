@@ -1,3 +1,4 @@
+# 6810110396 อนัญญา ลุ่นเซียะ
 # Python-Thread-ayncio-Process-Pool-
 ทดลองเขียนโค้ด Thread asyncio หรือ Process Pool ด้วยภาษา Python
 
